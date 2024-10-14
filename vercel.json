@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.thebrain.com/brain/87d7993b-12e4-4815-8b78-d2117d9e8e2c/$1"
+ }
+  ]
+}
